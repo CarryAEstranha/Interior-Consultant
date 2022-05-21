@@ -17,7 +17,7 @@
 
 ### Links
 
-- Live Site URL: https://carryaestranha.github.io/My-Team-Page/
+- Live Site URL: https://carryaestranha.github.io/Interior-Consultant/
 
 ## My process
 
