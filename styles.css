@@ -140,7 +140,8 @@ button {
 }
 
 .main-content {
-    margin: 1.125rem 0.75rem 0 0.75rem;
+    margin-top: 1.125rem;
+    padding: 0 0.75rem 0 0.75rem;
 
     width: 100%;
     max-width: 90rem;
